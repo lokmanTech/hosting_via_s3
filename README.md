@@ -13,6 +13,6 @@ If you're interested in setting up your own static website on S3, I've created a
 
 ## Check out my LinkedIn post
 
-[![LinkedIn Post](https://raw.githubusercontent.com/yourusername/yourrepo/main/linkedin_post.png)]
+[![LinkedIn Post](https://www.linkedin.com/posts/lhakimnazri_guide-to-setting-up-a-static-website-on-amazon-activity-7210658097688711168-jBXP?utm_source=share&utm_medium=member_desktop)]
 
 
