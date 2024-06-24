@@ -13,6 +13,6 @@ If you're interested in setting up your own static website on S3, I've created a
 
 ## Check out my LinkedIn post
 
-[![LinkedIn Post](https://raw.githubusercontent.com/yourusername/yourrepo/main/linkedin_post.png)](https://www.linkedin.com/feed/update/urn:li:ugcPost:7210658096296206336)
+[![LinkedIn Post](https://raw.githubusercontent.com/yourusername/yourrepo/main/linkedin_post.png)]
 
 
