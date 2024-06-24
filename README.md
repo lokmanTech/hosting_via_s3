@@ -1,8 +1,10 @@
 # Hosting via Amazon Web Services (AWS) S3
 Guide to setting up a static website on Amazon S3.
 
-I just completed documenting my S3 Static Website Project and I'm excited to share it with you all! This project involved hosting my first static website using Amazon S3.
+## [S3 Static Website Link](https://my-portfolio-lokmantech-website.s3.amazonaws.com/index.html)
+I just completed documenting my S3 Static Website Project and I'm excited to share it with you all! This project involved hosting static website using Amazon S3.
 
+## Check out my LinkedIn post
 Here's a brief overview of what I did:
 
 - `Website Hosting Setup`: Hosting your HTML files and other related files on a web server so they are accessible online.
@@ -11,8 +13,5 @@ Here's a brief overview of what I did:
 
 If you're interested in setting up your own static website on S3, I've created a detailed documentation outlining each step of the process. Feel free to check it out and let me know if you have any questions or need further assistance. Let's keep building and learning together!
 
-## Check out my LinkedIn post
-
-[![LinkedIn Post](https://www.linkedin.com/posts/lhakimnazri_guide-to-setting-up-a-static-website-on-amazon-activity-7210658097688711168-jBXP?utm_source=share&utm_medium=member_desktop)]
 
 
