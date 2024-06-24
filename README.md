@@ -13,7 +13,7 @@ Here's a brief overview of what I did:
 
 If you're interested in setting up your own static website on S3, I've created a detailed documentation outlining each step of the process. Feel free to check it out and let me know if you have any questions or need further assistance. Let's keep building and learning together!
 
-**[Click here to view the PDF](S3-LH Static Website Project.pdf)**
+**[Click here to view the PDF](https://github.com/lokmanTech/hosting_via_s3/blob/0c45be68bd92e1ea6c0d6ff7d571c90f14dc70b9/S3-LH%20Static%20Website%20Project.pdf)**
 
 
 
