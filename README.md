@@ -15,7 +15,7 @@ If you're interested in setting up your own static website on S3, I've created a
 
 **[Click here to view the PDF](https://github.com/lokmanTech/hosting_via_s3/blob/0c45be68bd92e1ea6c0d6ff7d571c90f14dc70b9/S3-LH%20Static%20Website%20Project.pdf)**
 
-<a href="https://github.com/lokmanTech/hosting_via_s3/blob/0c45be68bd92e1ea6c0d6ff7d571c90f14dc70b9/S3-LH%20Static%20Website%20Project.pdf"><img src="https://github.com/lokmanTech/hosting_via_s3/blob/main/01.png" alt="01" width="200px" height="300px"></a>
+<a href="https://github.com/lokmanTech/hosting_via_s3/blob/0c45be68bd92e1ea6c0d6ff7d571c90f14dc70b9/S3-LH%20Static%20Website%20Project.pdf"><img src="https://github.com/lokmanTech/hosting_via_s3/blob/main/01.png" alt="01" width="200px" height="280px"></a>
 
 
 
