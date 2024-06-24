@@ -11,3 +11,6 @@ Here's a brief overview of what I did:
 
 If you're interested in setting up your own static website on S3, I've created a detailed documentation outlining each step of the process. Feel free to check it out and let me know if you have any questions or need further assistance. Let's keep building and learning together!
 
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7210658096296206336" height="839" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
